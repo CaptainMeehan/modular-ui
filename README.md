@@ -4,3 +4,5 @@ to load those json files directly into my modular UI creating all the nescessary
 
 Note that this project is ongoing and some parts of the code might not make sense as it is right now implemented in another system. 
 The code is centered around a UI type base class and a UI manager with a state stack.
+
+Next step in this code is cleanup and a more general approach to load the UI from json files after export from a UI Editor that I am making using winapi.
